@@ -19,7 +19,7 @@
 <h2 align="center">🧑‍💼 Sobre Mí</h2>
 
 <p align="center">
-  🎯 Desarrollador Full Stack con ≃3 años de experiencia en el desarrollo de aplicaciones web. Especialista en <b>PHP, Laravel, Vue.js y DevOps</b>.  
+  🎯 Desarrollador Full Stack con ≃1 años de experiencia en el desarrollo de aplicaciones web. Especialista en <b>PHP, Laravel, Vue.js y DevOps</b>.  
   Apasionado por la innovación, el aprendizaje continuo y la optimización de código.
 </p>
 
