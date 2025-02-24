@@ -33,7 +33,7 @@
 
 <h3 align="center">🛠 Lenguajes y Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,html,css,bootstrap,typescript,java,spring" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,vue,html,css,bootstrap,java,spring" />
 </p>
 
 <h3 align="center">🗄 Bases de Datos</h3>
