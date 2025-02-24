@@ -43,7 +43,7 @@
 
 <h3 align="center">🚀 DevOps & Herramientas</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,git,linux,nginx,windows" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,git,nginx,apache" />
 </p>
 
 <h3 align="center">🖥️ IDEs y Entornos</h3>
